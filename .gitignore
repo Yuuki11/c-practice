@@ -1,0 +1,15 @@
+*.o
+*.out
+*.exe
+*.dSYM/
+.DS_Store
+
+# Common local C build outputs in this folder
+main
+mainc
+calculator
+guessingGame
+array
+conditions
+madlibs
+while
